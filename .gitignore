@@ -39,7 +39,7 @@ Desktop.ini
 
 # Maven #
 #########
-target/git push -u origin master
+target/
 generated/
 */generated/*
 pom.xml.tag
