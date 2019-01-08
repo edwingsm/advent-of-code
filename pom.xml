@@ -11,8 +11,8 @@
     <modules>
         <module>aoc-2015</module>
         <module>aoc-2016</module>
-        <module>aoc-02017</module>
-        <module>aco-2018</module>
+        <module>aoc-2017</module>
+        <module>aoc-2018</module>
         <module>eular</module>
 
     </modules>
